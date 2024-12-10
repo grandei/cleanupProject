@@ -1,0 +1,5 @@
+RPi.GPIO (for raspberry pi)
+numpy
+tensorflow
+opencv-python
+microsoft tools needed (windows machines)
